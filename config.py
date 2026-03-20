@@ -2,7 +2,7 @@
 Configuration settings for the Quotex VIP Channel Bot
 """
 
-import os
+import os  
 
 class Config:
     # Bot configuration
